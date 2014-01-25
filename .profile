@@ -23,3 +23,7 @@ export LSCOLORS=ExFxCxDxBxegedabagacad
 export PATH=$PATH:~/tools/scala-2.10.3/bin
 #Play2
 export PATH=$PATH:~/tools/play-2.2.1
+#Android
+export PATH=$PATH:~/tools/android-sdk/tools
+#Heroku Toolbelt
+export PATH=$PATH:/usr/local/heroku/bin

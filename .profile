@@ -21,6 +21,8 @@ export LSCOLORS=ExFxCxDxBxegedabagacad
 
 #scala
 export PATH=$PATH:~/tools/scala-2.10.3/bin
+#sbt
+export PATH=$PATH:~/tools/sbt/bin
 #Play2
 export PATH=$PATH:~/tools/play-2.2.1
 #Android

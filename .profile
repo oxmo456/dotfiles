@@ -29,3 +29,5 @@ export PATH=$PATH:~/tools/play-2.2.1
 export PATH=$PATH:~/tools/android-sdk/tools
 #Heroku Toolbelt
 export PATH=$PATH:/usr/local/heroku/bin
+#Home bin
+export PATH=$PATH:~/bin

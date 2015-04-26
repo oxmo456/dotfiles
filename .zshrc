@@ -23,10 +23,27 @@ export PATH=$PATH:~/tools/android-sdk/tools
 #Heroku Toolbelt                                                                                                                                                                                                                             
 export PATH=$PATH:/usr/local/heroku/bin
 
+#JFlex
+export PATH=$PATH:~/tools/jflex-1.6.0/bin
+
 #Home bin                                                                                                                                                                                                                                    
 export PATH=$PATH:~/bin
 
-alias ll="ls -alF"
+#Boot2Docker
+export DOCKER_HOST=tcp://192.168.59.103:2376
+export DOCKER_CERT_PATH=/Users/Nicolas/.boot2docker/certs/boot2docker-vm
+export DOCKER_TLS_VERIFY=1
+
+#Maven
+export PATH=$PATH:~/tools/apache-maven-3.2.3/bin
+
+#Android SDK
+export ANDROID_HOME=~/tools/android-sdk
+
+#Gradle
+export PATH=$PATH:~/tools/gradle-2.3/bin
+
+alias lll="ls -alF"
 alias reload-zshrc=". ~/.zshrc"
 
                                                                          
